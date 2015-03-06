@@ -157,7 +157,7 @@ shinyUI(navbarPage("I-V curve stats package",
                             #tabPanel("Type Low Amp",img(src="uilowamp.png", height = 600, width = 600)),
                             tabPanel("Authors",
                                      h3("Yang Hu"),
-                                     h4("Candidate of Doctor of Philosopy, Case Western Reserve University"),
+                                     h4("Candidate for Doctor of Philosopy, Case Western Reserve University"),
                                      h5("Solar Durability and Lifetime Extension (SDLE) center",a("Link", href="http://engineering.case.edu/centers/sdle/sdle/node/84")),
                                      h5("Email: ",a("yang.hu@case.edu", href = "yang.hu@case.edu")),
                                      h5(a("Linkedin", href = "https://www.linkedin.com/hp/?dnr=zgOzEiT2KS3JH-VHzmxp3ibZKT9pPJ1tDmpQ"),
@@ -166,7 +166,11 @@ shinyUI(navbarPage("I-V curve stats package",
                                      hr(),
                                      h3("Yifan Xu"),
                                      h4("Ph.D, Research Associate of Center for Statistical Research"),
-                                     h5("Computing and Collaboration at Department of Epidemiology & Biostatistics")
+                                     h5("Computing and Collaboration at Department of Epidemiology & Biostatistics"),
+                                     hr(),
+                                     h3("Timothy Peshek"),
+                                     h4("Research Assistant Professor of Materials Science and Engineering, Adjunct Assistant Professor of Physics"),
+                                     h5("Case Western Reserve University, Cleveland, Ohio")
                                      )
                   
                             )
