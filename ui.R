@@ -167,11 +167,11 @@ shinyUI(navbarPage("I-V curve stats package",
                                      hr(),
                                      h3("Yifan Xu"),
                                      h4("Ph.D, Research Associate of Center for Statistical Research Computing and Collaboration"),
-                                     h5("Department of Epidemiology & Biostatistics"),
-                                     hr(),
-                                     h3("Timothy Peshek"),
-                                     h4("Research Assistant Professor of Materials Science and Engineering, Adjunct Assistant Professor of Physics"),
-                                     h5("Case Western Reserve University, Cleveland, Ohio")
+                                     h5("Department of Epidemiology & Biostatistics")
+                                     #hr(),
+                                     #h3("Timothy Peshek"),
+                                     #h4("Research Assistant Professor of Materials Science and Engineering, Adjunct Assistant Professor of Physics"),
+                                     #h5("Case Western Reserve University, Cleveland, Ohio")
                                      )
                   
                             )
